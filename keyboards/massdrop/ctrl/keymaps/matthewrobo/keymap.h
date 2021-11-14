@@ -53,7 +53,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define _LAYER_ KC_TRNS
 
 //========================================================== CONFIGURABLE DEFAULTS ==========================================================
-extern bool         g_suspend_state;
 extern rgb_config_t rgb_matrix_config;
 bool                disable_layer_color;
 
